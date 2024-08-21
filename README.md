@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mr1AbhishekSharma
-- 👀 I’m interested in softare development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: text me on instagram.
